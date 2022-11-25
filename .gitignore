@@ -1,0 +1,5 @@
+# Don't upload Node Modules to GitHub
+node_modules/
+
+# Don't upload build files to GitHub
+build/
